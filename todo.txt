@@ -1,0 +1,3 @@
+rands to cents
+hours to minutes
+kg to pound
